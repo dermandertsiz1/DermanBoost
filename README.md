@@ -4,7 +4,7 @@
 
 ## 💡 Özellikler
 * **Optimizasyon:** Sistem kaynaklarını önceliklendirerek oyunlardaki FPS dalgalanmalarını azaltır.
-* **Hafif:** Arka planda minimum RAM ve CPU tüketir.
+* **Hafif:** Arka planda neredeyse hiç RAM ve CPU tüketmez.
 * **Kullanıcı Dostu:** Tek tıkla optimizasyon sağlayan basit arayüz.
 
 ## 🛠 Kurulum
