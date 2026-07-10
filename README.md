@@ -1,6 +1,6 @@
 # DermanBoost 🚀
 
-**DermanBoost**, Windows sistemlerinde oyun performansını artırmak ve arka plan işlemlerini optimize etmek ve Windows atıklarını temizlemek amacıyla geliştirilmiş, Python tabanlı bir performans aracıdır.
+**DermanBoost**, Windows sistemlerinde oyun performansını artırmak, arka plan işlemlerini optimize etmek ve Windows atıklarını temizlemek amacıyla geliştirilmiş, Python tabanlı bir performans aracıdır.
 
 ## 💡 Özellikler
 * **Optimizasyon:** Sistem kaynaklarını önceliklendirerek oyunlardaki FPS dalgalanmalarını azaltır.
