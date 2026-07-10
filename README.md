@@ -1,28 +1,25 @@
-## DermanBoost⚡
+# DermanBoost 🚀
 
-⚡ DermanBoost | Quantum Engine
-Sistemin İçin Şifalı Performans Dokunuşu
-DermanBoost, modern Windows işletim sistemlerindeki darboğazları aşmak, kaynak tüketimini optimize etmek ve oyun deneyimini "kuantum" seviyesine taşımak için geliştirilmiş, açık kaynaklı ve hafif bir performans çözümüdür.
+**DermanBoost**, Windows sistemlerinde oyun performansını artırmak ve arka plan işlemlerini optimize etmek ve Windows atıklarını temizlemek amacıyla geliştirilmiş, Python tabanlı bir performans aracıdır.
 
-🎯 Neden DermanBoost?
-Sisteminde gereksiz çalışan servislerin, RAM'ini emen önbelleklerin ve ağ gecikmelerinin farkında mısın? DermanBoost tüm bunları senin yerine tek tıkla çözer.
+## 💡 Özellikler
+* **Optimizasyon:** Sistem kaynaklarını önceliklendirerek oyunlardaki FPS dalgalanmalarını azaltır.
+* **Hafif:** Arka planda minimum RAM ve CPU tüketir.
+* **Kullanıcı Dostu:** Tek tıkla optimizasyon sağlayan basit arayüz.
 
-🚀 Ultra Boost Modu: Sistemindeki tüm gereksiz yükü tek seferde süpürür.
+## 🛠 Kurulum
+1. En son sürümü [Releases](link_ekle) kısmından indirin.
+2. `DermanBoostKurulum.exe` dosyasını **Yönetici Olarak** çalıştırın ve kurulumu tamamlayın.
+3. Programı başlatın ve sisteminizi optimize etmeye başlayın.
 
-🎮 Akıllı Oyun Takip: Oyunun açıldığı an bunu algılar ve sistemini en yüksek performansa (Nihai Performans Modu) kilitler.
+## ⚠️ Önemli Not (Windows Defender)
+DermanBoost, sistem seviyesinde işlem yaptığı için Windows Defender bazı durumlarda yanlış pozitif (false-positive) uyarısı verebilir. Uygulamanın güvenli olduğundan emin olabilirsiniz. Eğer uyarı alırsanız:
+* Windows Güvenliği > Virüs ve tehdit koruması > Dışlamalar > **"Dışlama ekle"** adımlarını izleyerek programın kurulu olduğu klasörü (C:\Program Files\DermanBoost) güvenli olarak işaretleyin veya uygulamayı kullanırken çıkan Windows Defender bildirimine tıklayarak "Bu Cihazda İzin Ver" seçeneğini seçebilirsiniz.
 
-🧹 Disk Süpürgesi: Birikmiş Windows çöplerini ve loglarını imha eder.
+## ⚙️ Teknik Detaylar
+* **Dil:** Python
+* **Mimari:** Yönetici yetkileriyle çalışan optimizasyon motoru
+* **Geliştirici:** https://github.com/dermandertsiz1
 
-🌐 Ping Sabitleme: Ağ önbelleğini temizleyerek gecikmeleri minimize eder.
-
-🛡️ Güvenli & Şeffaf: Arka planda neler olduğunu canlı donanım paneliyle anlık izle.
-
-🚀 Hızlı Başlangıç
-Kurulum için terminali açıp şu komutu yazman yeterli:
-
-`pip install -r requirements.txt`
-
-Ardından dermanboost.py dosyasını Yönetici Olarak çalıştırarak performansı hissetmeye başla!
-
-👤 Geliştirici
-github.com/dermandertsiz1
+## 📝 İletişim
+Sorularınız veya geri bildirimleriniz için benimle discord üzerinden iletişime geçebilirsiniz.(Kullanıcı adım dermandertsiz) 
