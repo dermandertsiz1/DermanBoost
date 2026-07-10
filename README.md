@@ -8,7 +8,7 @@
 * **Kullanıcı Dostu:** Tek tıkla optimizasyon sağlayan basit arayüz.
 
 ## 🛠 Kurulum
-1. En son sürümü [Releases](link_ekle) kısmından indirin.
+1. En son sürümü [Releases](https://github.com/dermandertsiz1/DermanBoost/releases/tag/V1.0) kısmından indirin.
 2. `DermanBoostKurulum.exe` dosyasını **Yönetici Olarak** çalıştırın ve kurulumu tamamlayın.
 3. Programı başlatın ve sisteminizi optimize etmeye başlayın.
 
